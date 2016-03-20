@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://ping-ge.github.io/sitemap.xml.gz

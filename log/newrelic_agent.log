@@ -1,0 +1,110 @@
+# Logfile created on 2016-03-19 14:20:31 +0800 by logger.rb/53141
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:20:31 +0800 r-mint (16575)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:20:31 +0800 r-mint (16575)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Environment: development
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : No known dispatcher detected.
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Application: development
+[2016-03-19 14:20:31 +0800 r-mint (16575)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing Net instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:20:31 +0800 r-mint (16575)] INFO : Finished instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:20:56 +0800 r-mint (16648)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:20:56 +0800 r-mint (16648)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Environment: development
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : No known dispatcher detected.
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Application: development
+[2016-03-19 14:20:56 +0800 r-mint (16648)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing Net instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:20:56 +0800 r-mint (16648)] INFO : Finished instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:21:43 +0800 r-mint (16728)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:21:43 +0800 r-mint (16728)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Environment: development
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : No known dispatcher detected.
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Application: development
+[2016-03-19 14:21:43 +0800 r-mint (16728)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing Net instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:21:43 +0800 r-mint (16728)] INFO : Finished instrumentation
+[2016-03-19 14:21:49 +0800 r-mint (16728)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-03-19 14:22:02 +0800 r-mint (16728)] ERROR : Invalid license key, please contact support@newrelic.com
+[2016-03-19 14:22:02 +0800 r-mint (16728)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2016-03-19 14:22:18 +0800 r-mint (16728)] INFO : Starting Agent shutdown
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:24:10 +0800 r-mint (16984)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:24:10 +0800 r-mint (16984)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Environment: development
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : No known dispatcher detected.
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Application: development
+[2016-03-19 14:24:10 +0800 r-mint (16984)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing Net instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:24:10 +0800 r-mint (16984)] INFO : Finished instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:24:30 +0800 r-mint (17070)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:24:30 +0800 r-mint (17070)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Environment: development
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : No known dispatcher detected.
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Application: development
+[2016-03-19 14:24:30 +0800 r-mint (17070)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing Net instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:24:30 +0800 r-mint (17070)] INFO : Finished instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:25:19 +0800 r-mint (17240)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:25:19 +0800 r-mint (17240)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Environment: development
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : No known dispatcher detected.
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Application: development
+[2016-03-19 14:25:19 +0800 r-mint (17240)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing Net instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:25:19 +0800 r-mint (17240)] INFO : Finished instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-19 14:26:56 +0800 r-mint (17385)] WARN : No configuration file found. Working directory = /home/r/code/ping-ge/ping-ge.com/source
+[2016-03-19 14:26:56 +0800 r-mint (17385)] WARN : Looked in these locations (based on defaults): /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/config/newrelic.yml, /home/r/code/ping-ge/ping-ge.com/source/newrelic.yml, /home/r/.newrelic/newrelic.yml, /home/r/newrelic.yml
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Environment: development
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : No known dispatcher detected.
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Application: development
+[2016-03-19 14:26:56 +0800 r-mint (17385)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing middleware-based Excon instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing Net instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2016-03-19 14:26:56 +0800 r-mint (17385)] INFO : Finished instrumentation
