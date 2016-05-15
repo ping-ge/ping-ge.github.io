@@ -1,6 +1,6 @@
 /*
 Error: File to import not found or unreadable: compass-mixins/lib/compass/reset.
-        on line 1 of /home/r/code/ping-ge/ping-ge.com/source/stylesheets/site.scss
+        on line 1 of /home/u/code/ping-ge/ping-ge.com/source/stylesheets/site.scss
 
 1: @import "compass-mixins/lib/compass/reset";
 2: @import "compass-mixins/lib/compass";
@@ -10,7 +10,7 @@ Error: File to import not found or unreadable: compass-mixins/lib/compass/reset.
 6: @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
 Backtrace:
-/home/r/code/ping-ge/ping-ge.com/source/stylesheets/site.scss:1
+/home/u/code/ping-ge/ping-ge.com/source/stylesheets/site.scss:1
 /home/r/.rvm/gems/ruby-2.3.0/gems/sass-3.4.21/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /home/r/.rvm/gems/ruby-2.3.0/gems/sass-3.4.21/lib/sass/tree/import_node.rb:45:in `import'
 /home/r/.rvm/gems/ruby-2.3.0/gems/sass-3.4.21/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -132,4 +132,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: compass-mixins/lib/compass/reset.\A         on line 1 of /home/r/code/ping-ge/ping-ge.com/source/stylesheets/site.scss\A \A 1: @import \"compass-mixins/lib/compass/reset\";\A 2: @import \"compass-mixins/lib/compass\";\A 3: \A 4: @import 'breakpoint-sass/stylesheets/breakpoint';\A 5: \A 6: @import url(http://fonts.googleapis.com/css?family=Lato:400,700);"; }
+  content: "Error: File to import not found or unreadable: compass-mixins/lib/compass/reset.\A         on line 1 of /home/u/code/ping-ge/ping-ge.com/source/stylesheets/site.scss\A \A 1: @import \"compass-mixins/lib/compass/reset\";\A 2: @import \"compass-mixins/lib/compass\";\A 3: \A 4: @import 'breakpoint-sass/stylesheets/breakpoint';\A 5: \A 6: @import url(http://fonts.googleapis.com/css?family=Lato:400,700);"; }
